@@ -1,5 +1,6 @@
 ## AI Engineer & Data Scientist
-**IA, software design & cybersecurity passionate**
+**Interests:**
+Machine Learning, Deep Learning, NLP, Data Science, FinTech
 
 ## 💻 Tech Stack
 
