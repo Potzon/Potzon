@@ -1,5 +1,5 @@
-## AI Engineer, Data Scientist & Researcher
-## IA, software design & cybersecurity
+## AI Engineer & Data Scientist
+**IA, software design & cybersecurity passionate**
 
 ---
 ## 🌐 Conect with me!
