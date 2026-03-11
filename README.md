@@ -4,7 +4,7 @@
 **Interests:**
 Machine Learning, Deep Learning, NLP, Data Science, FinTech
 
-## 💻 Tech Stack
+## Tech Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C/C++/C#](https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-555555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,5 +35,5 @@ Machine Learning, Deep Learning, NLP, Data Science, FinTech
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Potzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
