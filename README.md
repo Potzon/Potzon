@@ -3,10 +3,9 @@
 Machine Learning, Deep Learning, NLP, Data Science, FinTech
 
 ## 💻 Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C/C++/C#](https://img.shields.io/badge/C%2FC++%2FC%23-555555?style=for-the-badge&logoColor=white)
+![C/C++/C#](https://img.shields.io/badge/C%2FC%2B%2B%2FC%23-555555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
