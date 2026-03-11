@@ -2,13 +2,12 @@
 🌱 Apasionado por **IA, software design y ciberseguridad**  
 
 ---
-## 🌐 Conéctate conmigo
+## 🌐 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gotzonviteri)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Potzon)
 ---
 
 ## 💻 Stack Tecnológico
-## 💻 Mi Stack Tecnológico
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
