@@ -1,15 +1,14 @@
 🔭 **AI Engineer, Data Scientist & Researcher**  
-🌱 Apasionado por **IA, software design y ciberseguridad**  
+🌱 **IA, software design & cybersecurity**  
 
 ---
-## 🌐 Conecta conmigo
+## 🌐 Conect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gotzonviteri)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Potzon)
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
-### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,4 +43,3 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Potzon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
