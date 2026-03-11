@@ -1,12 +1,6 @@
 ## AI Engineer & Data Scientist
 **IA, software design & cybersecurity passionate**
 
----
-## 🌐 Conect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gotzonviteri)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Potzon)
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
