@@ -1,4 +1,6 @@
 ## AI Engineer & Data Scientist
+**Double Bachelor's Degree in Data Science & AI + Computer Engineering**
+
 **Interests:**
 Machine Learning, Deep Learning, NLP, Data Science, FinTech
 
