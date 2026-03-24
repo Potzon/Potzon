@@ -2,7 +2,7 @@
 **Double Bachelor's Degree in Data Science & AI + Computer Engineering**
 
 **Interests:**
-Machine Learning, Deep Learning, NLP, Data Science, FinTech
+Machine Learning, Deep Learning, XAI, NLP, Data Science, FinTech
 
 ## Tech Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
