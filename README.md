@@ -3,4 +3,5 @@
 
 **Interests:**
 Technologies: Machine Learning, Deep Learning, Data Science, MLOps, DevOps
+
 Areas: Computer Vision, FinTech, Healthcare
