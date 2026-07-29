@@ -1,4 +1,4 @@
-## AI Engineer & Data Scientist
+## AI/ML Engineer & Data Scientist
 **Double Bachelor's Degree in Data Science & AI + Computer Engineering**
 
 ### 🎯 Interests
