@@ -2,6 +2,7 @@
 **Double Bachelor's Degree in Data Science & AI + Computer Engineering**
 
 **Interests:**
-Technologies: Machine Learning, Deep Learning, Data Science, MLOps, DevOps
 
-Areas: Computer Vision, FinTech, Healthcare
+**Technologies:** Machine Learning, Deep Learning, Data Science, MLOps, DevOps
+
+**Areas:** Computer Vision, FinTech, Healthcare
