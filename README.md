@@ -3,5 +3,5 @@
 
 ### 🎯 Interests
 
-- **Technologies:** `Machine Learning` · `Deep Learning` · `Data Science` · `MLOps` · `DevOps`
+- **Technologies:** `Machine Learning` · `Deep Learning` · `Data Science` · `MLOps` · `DevOps` · `HPC`
 - **Areas:** `Computer Vision` · `NLP & LLMs` · `Edge AI` · `FinTech` · `Healthcare` · `Smart Cities`
